@@ -6,7 +6,11 @@
   // Encoding is not recommended to be modified.
   // Instead, it is recommended to copy the contents of the CSV file produced by yourself to example.csv.
   // The encoding format of example.csv is supported by all languages.
+<<<<<<< HEAD
   encoding: "GBK",
+=======
+  encoding: "UTF-8",
+>>>>>>> f1d4a6d2c1b7626152b1e0706cd08df963aaf80f
 
   // 每个时间节点最多显示的条目数。
   max_number: 20,
@@ -30,7 +34,11 @@
   reverse: false,
 
   // 类型根据什么字段区分？如果是name，则关闭类型显示
+<<<<<<< HEAD
   divide_by: 'name',
+=======
+  divide_by: 'type',
+>>>>>>> f1d4a6d2c1b7626152b1e0706cd08df963aaf80f
 
   // 颜色根据什么字段区分？
   divide_color_by: 'name',
@@ -54,15 +62,26 @@
 
   // 附加信息内容。
   // left label
+<<<<<<< HEAD
   itemLabel: "中国各省份历年铁路客运量",
 
   // right label
   typeLabel: "单位：万人",
+=======
+  itemLabel: "左侧文字",
+
+  // right label
+  typeLabel: "右侧文字",
+>>>>>>> f1d4a6d2c1b7626152b1e0706cd08df963aaf80f
 
 
   // 榜首项目信息的水平位置 。
   // Top item information horizontal location
+<<<<<<< HEAD
   item_x: 3250,
+=======
+  item_x: 250,
+>>>>>>> f1d4a6d2c1b7626152b1e0706cd08df963aaf80f
 
   // 时间点间隔时间。
   interval_time: 1,

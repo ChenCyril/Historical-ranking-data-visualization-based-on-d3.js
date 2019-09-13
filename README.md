@@ -33,10 +33,13 @@
 
 
 ----
+<<<<<<< HEAD
 #说在前头
 
 此项目来自 Jannchie/Historical-ranking-data-visualization-based-on-d3.js 
 本人根据国家统计局的数据进行了一些修改，在/src增添了几个文件
+=======
+>>>>>>> f1d4a6d2c1b7626152b1e0706cd08df963aaf80f
 
 # 一句话用法
 
@@ -61,11 +64,14 @@
 
 日期建议使用的格式为"YYYY-MM-DD"。
 
+<<<<<<< HEAD
 #关于国家统计局的数据转换
 
 把国家统计局的统计数据按照默认排列方式下载下来，放到 /src 并改名为 data.csv ,
 打开 transform.py 即可转换为该项目可读取的数据，输出文件名为 output.csv 。
 
+=======
+>>>>>>> f1d4a6d2c1b7626152b1e0706cd08df963aaf80f
 # 配置
 
 本项目能够进行一些简单的定制。
